@@ -1,0 +1,58 @@
+# Site settings
+title: AMZG
+email: mlernrew
+url: https://www.amzg.io
+description: "AMZG - Freelance Software Developer"
+keywords: "developer, freelance, rails, backend, back-end"
+skills: "Web Developer - Mostly Backend, Ruby on Rails, Javascript, Swift"
+meta_author: Dimitri Jorge
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+# disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 7D69FF #18bc9c
+  primary-rgb: "125, 105, 255" #"24,288,156"
+  secondary: 2B1C87 # 2c3e50
+  secondary-dark: 2B1C87 # 233140
+
+# Footer settings
+footer:
+  copyright: AMZG S.A.S.U
+  location: Address
+  social: Around the Web
+  credits: Legal
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://linkedin.com/in/dimitrijorge
+  - title: github
+    url: https://github.com/jorge-d
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 26 rue de Rochechouart
+  - line: 75009, Paris
+  - line: FRANCE
+
+# Credits content
+credits: 'AMZG S.A.S.U est une Société par Actions Simplifiée au capital de 500€ immatriculée au RCS de PARIS sous le numéro 839 292 281.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
