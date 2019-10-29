@@ -8,6 +8,8 @@ caption_sentence: "I build things"
 skills: "Backend Developer - ruby, rails, javascript, TDD"
 meta_author: Dimitri Jorge
 
+og_image: "avatar.jpeg"
+
 # Google webmaster tools
 google_verify:
 
