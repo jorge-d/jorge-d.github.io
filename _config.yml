@@ -4,7 +4,8 @@ email: mlernrew
 url: https://www.amzg.io
 description: "AMZG - Freelance Software Developer"
 keywords: "developer, freelance, rails, backend, back-end"
-skills: "Web Developer - Mostly Backend, Ruby on Rails, Javascript, Swift"
+caption_sentence: "I build things"
+skills: "Backend Developer - ruby, rails, javascript, TDD"
 meta_author: Dimitri Jorge
 
 # Google webmaster tools
